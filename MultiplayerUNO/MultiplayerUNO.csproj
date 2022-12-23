@@ -311,9 +311,6 @@
     <None Include="Images\UI\counterclockwise.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Images\UI2\btn.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Images\UI2\ButtonBlankBlueIcon.png" />
   </ItemGroup>
   <ItemGroup>
